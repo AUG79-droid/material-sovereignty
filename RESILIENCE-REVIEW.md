@@ -1,0 +1,3 @@
+# Material Sovereignty — applied resilience review
+
+Five missions and 50 decisions retained. Five existing questions replaced with bounded fictional numerical examples, with worked explanations in theory. Four indicators now show observed learning accuracy by category rather than arbitrary simulated operational scores. The common four-question pre/post instrument and JSON schema are unchanged. New curriculum uses a new local progress key; previous local progress is not deleted. No real Airbus operational data, approvals, LCA or fleet model. Subject-matter review and pilot validation remain required.
